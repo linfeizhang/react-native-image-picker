@@ -23,30 +23,15 @@
   "_spec": "react-native-image-picker@^0.26.10",
   "_where": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin",
   "author": {
-    "name": "Marc Shilling",
-    "url": "marcshilling"
+    "name": "linfeizhang"
   },
   "bugs": {
-    "url": "https://github.com/marcshilling/react-native-image-picker/issues"
+    "url": "https://github.com/linfeizhang/react-native-image-picker/issues"
   },
   "bundleDependencies": false,
-  "contributors": [
-    {
-      "name": "Matheus Santos",
-      "email": "vorj.dux@gmail.com"
-    },
-    {
-      "name": "Yoann Fuks",
-      "email": "yfuks@student.42.fr"
-    },
-    {
-      "name": "Alexander Ustinov",
-      "email": "rusfearuth@gmail.com"
-    }
-  ],
   "deprecated": false,
   "description": "A React Native module that allows you to use native UI to select media from the device library or directly from the camera",
-  "homepage": "https://github.com/marcshilling/react-native-image-picker#readme",
+  "homepage": "https://github.com/linfeizhang/react-native-image-picker#readme",
   "keywords": [
     "react-native",
     "react-native-image-picker",
@@ -60,7 +45,7 @@
   "nativePackage": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcshilling/react-native-image-picker.git"
+    "url": "git+https://github.com/linfeizhang/react-native-image-picker.git"
   },
   "scripts": {
     "prepare": "rm -rf android/build Example/android/build Example/android/app/build node_modules"
